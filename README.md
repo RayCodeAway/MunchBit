@@ -68,7 +68,7 @@ This section breaks down the development roadmap into a number of milestones.
 * **FTE:**  1
 * **Costs:** 0.05 BTC
 
-Create a capped Token (200,000,000) (10p)
+Create a capped Token (200,000,000) ($0.10)
 
 Create a website to explain business model
 
@@ -119,7 +119,7 @@ Out to Market (Onboarding new restaurant reward)
 
 Out to Market (Referral schemes for eaters)
 
-### Alocation of held tokens will be as follows
+### Allocation of Escrow tokens will be as follows
 
 * 40% Marketing (~$2,200,000) Brand awareness for both 
   * Coins
@@ -140,5 +140,5 @@ Out to Market (Referral schemes for eaters)
 
 
 ## Other acknowledgments
-* All money will be held in escrow and no intention of distribution of tokens to staff will be commence until solution is fully operational and there is a cool off period of 6-8 months for any bugs to settle
-*  There will be a trickle release of 10% of escrow to staff every 4 months
+* All money will be held in escrow 
+* There will be a trickle release of 5% of escrow to staff every 3 months until the full 30% is distributed
