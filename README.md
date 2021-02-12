@@ -1,5 +1,5 @@
 # MunchBit
-The JustEat disruptor
+The JustEat Disruptor
 
 * **Project Name:** MunchBit
 * **Team Name:** ARayADay
@@ -45,6 +45,7 @@ JustEat, UberEat are non blockchain application which are the very businesses we
 * **Registered Legal Entity:** Ray-IT Ltd
 
 ### Team's experience
+
 Please describe the team's relevant experience.  If the project involves development work, then we'd appreciated if you can single out a few interesting code commits made by team members on their past projects. For research-related grants, references to past publications and projects in a related domain are helpful.  
 Akhtar Miah - Microsoft SQL Data Engineer
   8 years Data Warehouse design & develop experience
@@ -66,39 +67,56 @@ This section breaks down the development roadmap into a number of milestones.
 * **Duration:** 2months
 * **FTE:**  1
 * **Costs:** 0.05 BTC
+
 Create a capped Token (200,000,000) (10p)
+
 Create a website to explain business model
+
 Create a dApp user facing website
+
 Create a demo dApp to demonstrate User Experience
 
 ### Milestone 2 — Test Dev dApp
 * **Duration:** 4months
 * **FTE:**  2
 * **Costs:** 1.75 BTC
+
 dApp Integration to central server, used to host Client images and Files
-  **IPFS used for future milestone**
+* **IPFS used for future milestone**
 Fiat integration into dApp - Payment process via Fiat only
+
 Trial dApp in controlled zone (UK Midlands)
+
 Token wallet integration into dApp - able to create and view wallet within dApp
+
 * A private IDO will commence in May 2021 which will offer 5,000,000 to internal team & local community.  Total raised during this phase is $500,000
 
 ### Milestone 3 — substrate Integration Dev dApp
 * **Duration:** 3months
 * **FTE:**  2
 * **Costs:** 1.75 BTC
+
 dApp Integration to blockchain substrate (write Tx to blockchain)
+
 Token incentives - offer reward tokens for purchasing (1 token issued per Tx)
+
 Token to Fiat exchange system
+
 Stress Test on Simulated Tx
+
 A public IDO will commence in September-October 2021 with a supply of 100,000,000.  This ICO will end 1 months after launch or until Coins are all purchased. Total raised during this phase is $5,000,000. 
+
 The rest of the supply will be minted through mining/Tx
 
 ### Milestone 4 — dApp GoLive
 * **Duration:** 4months
 * **FTE:**  3
 * **Costs:** 3 BTC
+
 dApp dual Tx Token/Fiat payment options 
+
 Out to Market (Onboarding new restaurant reward)
+
 Out to Market (Referral schemes for eaters)
 
 ### Alocation of held tokens will be as follows
@@ -116,9 +134,9 @@ Out to Market (Referral schemes for eaters)
 * 30% Development (~$1,650,000)
 
 ## Future Plans
-Ongoing Marketing
-Out to Market (Onboarding new restaurant reward)
-Out to Market (Referral schemes for eaters)
+* Ongoing Marketing
+ * Out to Market (Onboarding new restaurant reward)
+ * Out to Market (Referral schemes for eaters)
 
 
 ## Other acknowledgments
