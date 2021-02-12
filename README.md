@@ -72,7 +72,7 @@ Create a capped Token (200,000,000) ($0.10)
 
 Create a website to explain business model
 
-Create a dApp user facing website
+Create a user facing website
 
 Create a demo dApp to demonstrate User Experience
 
