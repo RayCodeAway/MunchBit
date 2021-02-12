@@ -18,8 +18,7 @@ We want to deliver a solution for both clients and eaters that offer a cheaper a
 
 IPFS storage will be explored for client branding, which will translate to clients paying for storage of their assets. assets being images and other files.
 
-
-Therefore, we ask the teams to submit (where relevant):
+Look out for the following:
 * Mockups/designs of any UI components
 * API specifications of the core functionality
 * An overview of the technology stack to be used
