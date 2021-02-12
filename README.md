@@ -42,8 +42,8 @@ JustEat, UberEat are non blockchain application which are the very businesses we
 * Website
 
 ### Legal Structure 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it on one line. (e.g. High Street 1, London LK1 234, UK)
-* **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+* **Registered Address:** 65 Longmore Road, Solihull, B90 3DZ, UK
+* **Registered Legal Entity:** Ray-IT Ltd
 
 ### Team's experience
 Please describe the team's relevant experience.  If the project involves development work, then we'd appreciated if you can single out a few interesting code commits made by team members on their past projects. For research-related grants, references to past publications and projects in a related domain are helpful.  
