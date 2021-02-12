@@ -103,17 +103,18 @@ Out to Market (Onboarding new restaurant reward)
 Out to Market (Referral schemes for eaters)
 
 ### Alocation of held tokens will be as follows
-•	40% Marketing (~$2,200,000) – Brand awareness for both 
-•	•	Coins
-•	•	•	News publish
-•	•	•	Expos
-•	•	•	Trading/Exchange platforms
-•	•	Service
-•	•	•	Promote to restauranteurs
-•	•	•	Food eaters
-•	20% Reserves (~$1,100,000)
-•	10% Founder (~$550,000)
-•	30% Development (~$1,650,000)
+
+* 40% Marketing (~$2,200,000) Brand awareness for both 
+  * Coins
+    *	News publish
+    *	Expos
+    * Trading/Exchange platforms
+  *	Service
+    *	Promote to restauranteurs
+    *	Food eaters
+* 20% Reserves (~$1,100,000)
+* 10% Founder (~$550,000)
+* 30% Development (~$1,650,000)
 
 ## Future Plans
 Ongoing Marketing
@@ -121,12 +122,6 @@ Out to Market (Onboarding new restaurant reward)
 Out to Market (Referral schemes for eaters)
 
 
-Possible additional information to include:
-* capture requirments
-* refine business model
-* understand technologies
-* plan resources for milestone
-
-##Other acknowledgments
+## Other acknowledgments
 * All money will be held in escrow and no intention of distribution of tokens to staff will be commence until solution is fully operational and there is a cool off period of 6-8 months for any bugs to settle
 *  There will be a trickle release of 10% of escrow to staff every 4 months
