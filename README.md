@@ -102,8 +102,20 @@ dApp dual Tx Token/Fiat payment options
 Out to Market (Onboarding new restaurant reward)
 Out to Market (Referral schemes for eaters)
 
-## Future Plans
+### Alocation of held tokens will be as follows
+•	40% Marketing (~$2,200,000) – Brand awareness for both 
+•	•	Coins
+•	•	•	News publish
+•	•	•	Expos
+•	•	•	Trading/Exchange platforms
+•	•	Service
+•	•	•	Promote to restauranteurs
+•	•	•	Food eaters
+•	20% Reserves (~$1,100,000)
+•	10% Founder (~$550,000)
+•	30% Development (~$1,650,000)
 
+## Future Plans
 Ongoing Marketing
 Out to Market (Onboarding new restaurant reward)
 Out to Market (Referral schemes for eaters)
