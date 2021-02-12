@@ -67,7 +67,7 @@ This section breaks down the development roadmap into a number of milestones.
 * **Duration:** 2months
 * **FTE:**  1
 * **Costs:** 0.05 BTC
-Create a capped Token (200 Million) (10p)
+Create a capped Token (200,000,000) (10p)
 Create a website to explain business model
 Create a dApp user facing website
 Create a demo dApp to demonstrate User Experience
@@ -81,6 +81,7 @@ dApp Integration to central server, used to host Client images and Files
 Fiat integration into dApp - Payment process via Fiat only
 Trial dApp in controlled zone (UK Midlands)
 Token wallet integration into dApp - able to create and view wallet within dApp
+* A private IDO will commence in May 2021 which will offer 5,000,000 to internal team & local community.  Total raised during this phase is $500,000
 
 ### Milestone 3 — substrate Integration Dev dApp
 * **Duration:** 3months
@@ -90,6 +91,8 @@ dApp Integration to blockchain substrate (write Tx to blockchain)
 Token incentives - offer reward tokens for purchasing (1 token issued per Tx)
 Token to Fiat exchange system
 Stress Test on Simulated Tx
+A public IDO will commence in September-October 2021 with a supply of 100,000,000.  This ICO will end 1 months after launch or until Coins are all purchased. Total raised during this phase is $5,000,000. 
+The rest of the supply will be minted through mining/Tx
 
 ### Milestone 4 — dApp GoLive
 * **Duration:** 4months
@@ -98,7 +101,6 @@ Stress Test on Simulated Tx
 dApp dual Tx Token/Fiat payment options 
 Out to Market (Onboarding new restaurant reward)
 Out to Market (Referral schemes for eaters)
-
 
 ## Future Plans
 
@@ -112,3 +114,7 @@ Possible additional information to include:
 * refine business model
 * understand technologies
 * plan resources for milestone
+
+##Other acknowledgments
+* All money will be held in escrow and no intention of distribution of tokens to staff will be commence until solution is fully operational and there is a cool off period of 6-8 months for any bugs to settle
+*  There will be a trickle release of 10% of escrow to staff every 4 months
