@@ -10,7 +10,7 @@ The JustEat Disruptor
 
 We want to deliver a platform to take on the giants that are JustEat and UberEat.  we do this by using the blockchain ledger to perform transaction at scale without lag. Currently Business are at the mercy of these giants paying extortionate operating fees only to line the pockets of giant corps and eat into the little profits the restaurants work with.   
 
-We want to deliver a solution for both clients and eaters that offer a cheaper alternative. With the blockchain always on customers both eaters and clients wont have issues with server outages and costs of operating will be at a marginal cost we are lookign at a number of smart contract blockchains such as Substrate, Komodo, Blockchain Smart Coin, Cardano, Solano 
+We want to deliver a solution for both clients and consumers that offer a cheaper alternative. With the blockchain always on customers both consumers and clients wont have issues with server outages and costs of operating will be at a marginal cost we are lookign at a number of smart contract blockchains such as Substrate, Komodo, Blockchain Smart Coin, Cardano, Solano 
 
 
 
