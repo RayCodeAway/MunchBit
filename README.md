@@ -33,6 +33,7 @@ JustEat, UberEat are non blockchain application which are the very businesses we
 
 ### Team members
 * Obaydur (Akhtar) Rahman Miah
+* Ammy Singh
 * Kamruz Zamman
 * Martin Rendell
 
